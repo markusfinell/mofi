@@ -98,11 +98,6 @@
 	},
 	"styles": {
 		"blocks": {
-			"core/group": {
-				"spacing": {
-					"blockGap": "var(--wp--preset--spacing--30)"
-				}
-			},
 			"core/navigation": {
 				"css": "&& .wp-block-navigation-item__content {text-decoration-line: underline;}",
 				"typography": {

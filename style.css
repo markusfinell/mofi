@@ -3,15 +3,10 @@ Theme Name: Mofi
 Theme URI: https://markusfinell.github.io/themes/mofi
 Author: Markus Finell
 Author URI: https://markusfinell.github.io
-Description: Mofi is a block theme created in honor of my grandfather. Lars "Mofi" Finell.
-Requires at least: 6.4
+Description: Mofi is a minimalist block theme created in honor of my grandfather. Lars "Mofi" Finell.
 Tested up to: 6.4
-Requires PHP: 7.0
-Version: 1.0
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Version: 0.1
 Text Domain: mofi
-Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments, translation-ready, wide-blocks, block-styles, style-variations, accessibility-ready, blog, portfolio, news
 */
 
 .wp-block-heading {
